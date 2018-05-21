@@ -341,7 +341,7 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    # family: Monaco
 
   # Font settings for Logo.
   # Fallback to `global` font settings.
@@ -353,7 +353,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: Monaco
     size:
 
 
